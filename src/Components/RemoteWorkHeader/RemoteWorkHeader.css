@@ -1,0 +1,23 @@
+.nav {
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: aqua;
+}
+.nav-ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+li {
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: 579;
+    padding-left: 38px;
+}
+
+h2 {
+    font-size: 28px;
+}

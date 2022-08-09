@@ -1,0 +1,19 @@
+.body {
+    display: flex;
+    justify-content: center;
+    /* align-content: center; */
+}
+
+.head {
+    position: relative;
+    top: 200px;
+    font-size: 68px;
+}
+
+.para {
+    position: relative;
+    top: 400px;
+    right: 406px;
+    font-size: 19px;
+    color: gray;
+}
